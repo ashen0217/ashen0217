@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2 years<br>📚 I'm currently learning MERN stack , Mobile Application Development by Android Studio<br>🎯 Goals: ...<br>🎲 Fun fact: Fulstack development,Communication, co-opeartion,creativity,critical thinking </p>
+<p align="left">✨ Creating bugs since 2 years<br>📚 I'm currently learning MERN stack , Mobile Application Development by Android Studio<br>🎯 Goals: Angular,C#,Game Development,C++,C,Python turtle graphic development,Javascript form validations<br>🎲 Fun fact: Fulstack development,Communication, co-opeartion,creativity,critical thinking </p>
 
 ###
 
