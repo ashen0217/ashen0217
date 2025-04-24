@@ -1,5 +1,27 @@
 # 💫 About Me:
-<br>👯 I’m looking to collaborate on Full stack software development<br>🤝 I’m looking for help with<br>🌱 I’m currently learning on mobile application development, MERN stack<br>⚡ Fun Facts About Me I enjoy debugging code and finding solutions to tricky problems
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+  
+- 🌱 I’m currently learning **MERN**
+
+- 🧑‍🎓 I’m an Undergraduate at **SLIIT**
+
+- 💬 Ask me about **Java**
+
+- 📫 How to reach me **ashen0217@gmail.com**
+  
+- ⚡ Fun fact **Chill guy**
+
+</td>
+<td width="50%" align="center">
+
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+
+  
+  </td>
+</tr>
+</table>
 
 
 # 💻 Tech Stack:
