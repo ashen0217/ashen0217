@@ -2,6 +2,10 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
+
+<h1 align="center">Hey There!<img src="https://user-images.githubusercontent.com/93942615/180059035-8b90d723-c913-448f-bd55-4e02979a51cc.gif" alt="wave" style="max-width: 100px; width:50px; display: inline-block;" data-target="animated-image.originalImage"></h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=2000&color=F7E976&center=true&vCenter=true&width=1500&lines=A+Full+Stack+Developer+%7C%7C+Information+technology+Undergraduate" alt="Typing SVG" /></a><h5 align="center">(Sri Lanka Institute of Information Technology)</h5>
+<p> I am an Information Technology undergraduate with a strong passion for creating innovative software solutions that enhance organizational efficiency and productivity. I am a proactive and results-driven individual with proven leadership experience, capable of motivating, guiding, and managing teams effectively. My adaptable, hardworking, and enthusiastic nature, combined with strong interpersonal and communication skills, allows me to collaborate seamlessly with others and contribute positively to any team environment. </p>
+    
   
 - 🌱 I’m currently learning **MERN**
 
