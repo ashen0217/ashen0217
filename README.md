@@ -31,7 +31,7 @@
 <br/>
 <img align="left" width="170" height="170" src="https://github.com/ChillBroh/ChillBroh/blob/main/png/my-octocat.png">
 
-- <a href="https://instagram.com/ashen0217" style = "text-decoration : none;">Instagram</a>   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chill_broh_98" height="15" width="20" />
+- <a href="https://instagram.com/ashen0217" style = "text-decoration : none;">Instagram</a>   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashen0217" height="15" width="20" />
 - <a href="https://linkedin.com/in/www.linkedin.com/in/ashen-bamunusingha-39bb1a273">Linkedin</a>    <img align="center" src="https://github.com/ChillBroh/ChillBroh/blob/main/png/1220314_linkedin_in_linked_social_icon.png" height="24" width="24"/>
 - <a href="mailto:ashen0217@gmail.com">E-mail</a><img align="center" src="https://github.com/ChillBroh/ChillBroh/blob/main/png/1220340_gmail_google_mail_icon.png"  height="25" width="25" />
 - - <a href="https://medium.com/@ashen0217">Blog</a>   
