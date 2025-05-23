@@ -1,5 +1,4 @@
 # 💫 About Me:
-<p  align="center" ><a href="https://github.com/ashen0217/portfolio/blob/main/index.html/"><img alt="Coding" width="80%" height="auto" src="https://github.com/ChillBroh/ChillBroh/blob/main/png/my%20portfolio%20new.png](https://github.com/ashen0217/ashen0217/blob/subbranch/ashen.png"></a></p>
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
