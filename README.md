@@ -93,6 +93,10 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### 😆 Random Dev Meme
+
+<img align="center" src="https://www.meme-arsenal.com/memes/0fc5499f9d62f5759a639021c3df3152.jpg" alt="https://www.linkedin.com/in/chathra-navoda-ranasingha-930b321ba/" height="470" width="340" />
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ashen0217&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
