@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **ashen0217@gmail.com**
 
-- - 📄 Check out my [Resume](https://github.com/ashen0217/Resume/blob/main/Ashen_Madusanka_CV.pdf)
+-  📄 Check out my [Resume](https://github.com/ashen0217/Resume/blob/main/Ashen_Madusanka_CV.pdf)
   
 - ⚡ Fun fact **Chill guy**
 
