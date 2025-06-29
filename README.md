@@ -1,5 +1,6 @@
 # 💫 About Me: 
 Portfolio Site
+ <img src="https://readme-typing-svg.herokuapp.com?font=Calibri&size=25&duration=2000&pause=2000&color=CCF7E3&center=true&vCenter=true&width=1000&lines=It's+Ashen+Bamunusinghe...!+Click+Below+Image..">
 <p  align="center" ><a href="https://portfolio-site-ashen0217-ashen-bamunusinghas-projects.vercel.app/"><img alt="Coding" width="80%" height="auto" src="https://github.com/ashen0217/Portfolio-Site-/blob/main/SS.png"></a></p>
 
 <table align="center">
