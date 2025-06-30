@@ -1,5 +1,5 @@
 # 💫 About Me: 
- <img src="https://readme-typing-svg.herokuapp.com?font=Calibri&size=25&duration=2000&pause=2000&color=CCF7E3&center=true&vCenter=true&width=1000&lines=My+Portfolio+Site...!+Click+the+Image+To+Visit..">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Calibri&size=25&duration=2000&pause=2000&color=CCF7E3&center=true&vCenter=true&width=1000&lines=My+Portfolio+Site...!+Click+The+Below+Image+To+Visit..">
 <p  align="center" ><a href="https://portfolio-site-ashen0217-ashen-bamunusinghas-projects.vercel.app?_vercel_share=KOJfOhAPq3JAeLzIaiHK3xe64Bsv2L4w"><img alt="Coding" width="80%" height="auto" src="https://github.com/ashen0217/Portfolio-Site-/blob/main/SS.png"></a></p>
 <br>
 <table align="center">
@@ -31,8 +31,14 @@
 <td width="50%" align="center">
 
   <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+  <br><br>
+  <br><br>
 
-  
+  <img src="https://media.giphy.com/media/26BRQTezZrKak4BeE/giphy.gif" width="220" />
+  <br><br>
+  <br><br>
+
+  ![Loading bar](https://media.giphy.com/media/y1ZBcOGOOtlpC/giphy.gif)
   </td>
 </tr>
 </table>
