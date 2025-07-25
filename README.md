@@ -34,9 +34,11 @@
   <br><br>
   <br><br>
 
-  <img src="https://media.giphy.com/media/26BRQTezZrKak4BeE/giphy.gif" width="220" />
+  <a target="_blank" align="right">
+    <img align="right" top="500" height="200" width="300" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  </a>
   <br><br>
-  <br><br>
+  
 
   ![Loading bar](https://media.giphy.com/media/y1ZBcOGOOtlpC/giphy.gif)
   </td>
