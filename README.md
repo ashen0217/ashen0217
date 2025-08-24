@@ -26,7 +26,7 @@
 -  📄              [Java](https://github.com/ashen0217/Resume/blob/main/JavaBasicsAlison.pdf)
   
 - ⚡ Fun fact **Chill guy**
-- ⚡ Fun fact **Chill guy**
+  
 
 </td>
 <td width="50%" align="center">
