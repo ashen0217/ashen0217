@@ -11,7 +11,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashen0217&label=Profile%20views&color=0e75b6&style=flat" alt="ashen0217" /> </p>
   
-- 🌱 I’m currently learning **MERN**
+- 🌱 ## 📌 Currently Learning & Building
+
+- Building full-stack apps with MERN
+- Exploring Android app development (Kotlin + Firebase)
+- Learning Spring Boot for enterprise apps
+
 
 - 🧑‍🎓 I’m an Undergraduate at **SLIIT**
 
