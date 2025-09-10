@@ -1,4 +1,4 @@
-# 💫 About Me: 
+f# 💫 About Me: 
  <img src="https://readme-typing-svg.herokuapp.com?font=Calibri&size=25&duration=2000&pause=2000&color=CCF7E3&center=true&vCenter=true&width=1000&lines=My+Portfolio+Site...!+Click+The+Below+Image+To+Visit..">
 <p  align="center" ><a href="https://portfolio-site-snowy-alpha.vercel.app/"><img alt="Coding" width="80%" height="auto" src="https://github.com/ashen0217/Portfolio-Site-/blob/main/SSNew.png"></a></p>
 <br>
@@ -7,7 +7,7 @@
 <td width="50%" align="left">
 
 <h1 align="center">Hey There!<img src="https://user-images.githubusercontent.com/93942615/180059035-8b90d723-c913-448f-bd55-4e02979a51cc.gif" alt="wave" style="max-width: 100px; width:50px; display: inline-block;" data-target="animated-image.originalImage"></h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=2000&color=F7E976&center=true&vCenter=true&width=1500&lines=A+Full+Stack+Developer+Machine-Learning+%7C%7C+Information+technology+Undergraduate" alt="Typing SVG" /></a><h5 align="center">(Sri Lanka Institute of Information Technology)</h5>
-<p> I am an Information Technology undergraduate with a strong passion for creating innovative software solutions that enhance organizational efficiency and productivity. I am a proactive and results-driven individual with proven leadership experience, capable of motivating, guiding, and managing teams effectively. My adaptable, hardworking, and enthusiastic nature, combined with strong interpersonal and communication skills, allows me to collaborate seamlessly with others and contribute positively to any team environment. </p>
+<p> I am an Information Technology undergraduate with a strong passion for creating innovative software solutions that enhance organizational efficiency and productivity. I am a proactive and results-driven individual with proven leadership experience, capable of motivating, guiding, and managing teams effectively.My adaptable, hardworking, and enthusiastic nature, combined with strong interpersonal and communication skills, allows me to collaborate seamlessly with others and contribute positively to any team environment. I am currently learning Machine Learning to explore more diverse concepts related to Artificial Intelligence , Natural language processing , Deep learning , Generative AI and Image Processing</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashen0217&label=Profile%20views&color=0e75b6&style=flat" alt="ashen0217" /> </p>
 
@@ -15,6 +15,7 @@
   
 - 🌱 ## 📌 Currently Learning & Building
 
+-Machine Learning , AI, DeepLearning, NLP , Generative Ai , N8N
 - Building full-stack apps with MERN
 - Exploring Android app development (Kotlin + Firebase)
 - Learning Spring Boot for enterprise apps
