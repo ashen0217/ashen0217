@@ -15,7 +15,7 @@ f# 💫 About Me:
   
 - 🌱 ## 📌 Currently Learning & Building
 
--Machine Learning , AI, DeepLearning, NLP , Generative Ai , N8N
+ -Machine Learning , AI, DeepLearning, NLP , Generative Ai , N8N
 - Building full-stack apps with MERN
 - Exploring Android app development (Kotlin + Firebase)
 - Learning Spring Boot for enterprise apps
