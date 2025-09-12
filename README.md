@@ -36,6 +36,7 @@ f# 💫 About Me:
 -  📄              [Java](https://github.com/ashen0217/Resume/blob/main/JavaBasicsAlison.pdf)
 -  📄              [A/L](https://github.com/ashen0217/Resume/blob/main/Serial%20No.%20UVLC%20-%20976182.pdf)
 -  📄              [IT Diploma](https://github.com/ashen0217/Resume/blob/main/P%20Pearson.pdf)
+-  📄              [IBM Python for Data Science](https://github.com/ashen0217/Resume/blob/main/IBMPythonDataScienceCertificate.pdf)
   
 - ⚡ Fun fact **Chill guy**
   
