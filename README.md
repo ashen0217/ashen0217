@@ -1,4 +1,4 @@
-f# 💫 About Me: 
+💫 About Me: 
  <img src="https://readme-typing-svg.herokuapp.com?font=Calibri&size=25&duration=2000&pause=2000&color=CCF7E3&center=true&vCenter=true&width=1000&lines=My+Portfolio+Site...!+Click+The+Below+Image+To+Visit..">
 <p  align="center" ><a href="https://portfolio-site-snowy-alpha.vercel.app/"><img alt="Coding" width="80%" height="auto" src="https://github.com/ashen0217/Portfolio-Site-/blob/main/SSNew.png"></a></p>
 <br>
