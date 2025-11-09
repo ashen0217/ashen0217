@@ -42,20 +42,14 @@
   
 
 </td>
-<td width="50%" align="center">
+</tr>
+</table>
 
-  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
-  <br><br>
-  <br><br>
-  <br><br>
+
   <a target="_blank" align="right">
     <img align="right" top="500" height="200" width="300" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
   </a>
-  <br><br>
-  <br><br>
-  </td>
-</tr>
-</table>
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 
 
 # 💻 Tech Stack:
