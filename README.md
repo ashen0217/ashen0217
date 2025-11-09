@@ -31,7 +31,7 @@
 
 -  📄 Check out my [Resume](https://github.com/ashen0217/Resume/blob/main/Ashen_Madusanka_CV.pdf)
 -  📄 Check out my Certifications
--  📄              [JavaScript](https://github.com/ashen0217/Resume/blob/main/AlisonCertificate.pdf)
+-  📄              [JavaScript](https://github.com/ashen0217/Resume/blob/main/AlisonCertificate.pdf)                                
 -  📄              [Python](https://github.com/ashen0217/Resume/blob/main/Python_for_Beginners_E-Certificate.pdf)
 -  📄              [Java](https://github.com/ashen0217/Resume/blob/main/JavaBasicsAlison.pdf)
 -  📄              [A/L](https://github.com/ashen0217/Resume/blob/main/Serial%20No.%20UVLC%20-%20976182.pdf)
@@ -41,6 +41,11 @@
 - ⚡ Fun fact **Chill guy**
   
 
+</td>
+</tr>
+
+<tr border="none">
+<td width="50%" align=right">
 </td>
 </tr>
 </table>
