@@ -12,8 +12,6 @@
 <p>I am a  Machine Learning Engineer exploring  diverse concepts related to Artificial Intelligence , Natural language processing , Deep learning , Generative AI and Image Processing </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashen0217&label=Profile%20views&color=0e75b6&style=flat" alt="ashen0217" /> </p>
-
-[![committers.top badge](https://user-badge.committers.top/sri_lanka/ashen0217.svg)](https://user-badge.committers.top/sri_lanka/ashen0217)
   
 - 🌱 ## 📌 Currently Learning & Building
 
