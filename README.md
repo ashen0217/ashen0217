@@ -99,9 +99,9 @@
 <p align="center">
 <table align="center">
 <tr border="none">
-<td width="50%" align="center">
+<td width="50%" align="left">
   <br></br>
-        <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ashen0217&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+        <img  align="left"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ashen0217&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 </td>
 
 </tr>
