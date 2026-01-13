@@ -95,20 +95,19 @@
 <br/>
 <a><a/> 
 
-<h3 align="center">My Statistics:</h3>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ashen0217&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ashen0217&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashen0217&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="left">
-  <br></br>
-        <img  align="left"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ashen0217&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-</td>
 
-</tr>
-</table>
+<img  align="left"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ashen0217&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 
 
-## 🏆 GitHub Trophies
+
+
+
+
 ![](https://github-profile-trophy.vercel.app/?username=ashen0217&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
