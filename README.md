@@ -27,7 +27,7 @@
 
 - 📫 How to reach me **ashen0217@gmail.com**
 
--  📄 Check out my [Resume](https://github.com/ashen0217/Resume/blob/main/AshenCv.pdf)
+-  📄 Check out my [Resume](https://github.com/ashen0217/Resume/blob/main/ASHENFullstackResume.pdf)
 -  📄 Check out my Certifications
 -  📄              [JavaScript](https://github.com/ashen0217/Resume/blob/main/AlisonCertificate.pdf)                                
 -  📄              [Python](https://github.com/ashen0217/Resume/blob/main/Python_for_Beginners_E-Certificate.pdf)
