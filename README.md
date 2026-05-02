@@ -126,10 +126,10 @@ I am a Machine Learning Engineer exploring diverse concepts related to Artificia
 
 ---
 
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
-</h3>
+<div align="center">
 
----
+**Made with ❤️ by [Ashen](https://github.com/ashen0217)**
 
-[![Visitor Count](https://visitcount.itsvg.in/api?id=ashen0217&icon=0&color=0)](https://visitcount.itsvg.in)
+*Last updated: 2026* | *Thanks for visiting!* ✌️
+
+</div>
