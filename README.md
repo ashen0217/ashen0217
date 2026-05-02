@@ -129,6 +129,7 @@ Visit my **[GitHub Profile](https://github.com/ashen0217)** to see:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashen0217&theme=dark&hide_border=false" alt="GitHub Streak" style="max-width: 100%; margin-bottom: 20px; border-radius: 8px;" />
 </div>
 
+<!-- GitHub Stats
 <div align="center">
   
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashen0217&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
@@ -136,7 +137,7 @@ Visit my **[GitHub Profile](https://github.com/ashen0217)** to see:
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashen0217&theme=dark&hide_border=false&layout=compact)
   
 </div>
-
+-->
 ---
 
 ---
