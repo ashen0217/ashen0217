@@ -117,6 +117,17 @@ Visit my **[GitHub Profile](https://github.com/ashen0217)** to see:
 
 ---
 
+## 🏆 GitHub Achievements
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ashen0217&theme=dark&no-frame=true&no-bg=true&margin-w=4&row=1)
+  - Singlish to Sinhala Converter (TypeScript)
+  - Unilife Smart Student Productivity Platform (JavaScript)
+  - Heart Attack Data Prediction (Machine Learning)
+- **Tech Strength:** Full Stack Web Development, Spring Boot, MERN, Machine Learning
+- **Availability:** Open to collaborations & interesting projects 🚀
+
+---
+
 ## 🤝 Let's Connect!
 
 <img align="left" width="170" height="170" src="https://github.com/ChillBroh/ChillBroh/blob/main/png/my-octocat.png">
