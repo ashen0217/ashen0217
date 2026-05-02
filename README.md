@@ -117,14 +117,27 @@ Visit my **[GitHub Profile](https://github.com/ashen0217)** to see:
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 GitHub Achievements & Stats
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ashen0217&theme=dark&no-frame=true&no-bg=true&margin-w=4&row=1)
-  - Singlish to Sinhala Converter (TypeScript)
-  - Unilife Smart Student Productivity Platform (JavaScript)
-  - Heart Attack Data Prediction (Machine Learning)
-- **Tech Strength:** Full Stack Web Development, Spring Boot, MERN, Machine Learning
-- **Availability:** Open to collaborations & interesting projects 🚀
+
+---
+
+## 🔥 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashen0217&theme=dark&hide_border=false" alt="GitHub Streak" style="max-width: 100%; margin-bottom: 20px; border-radius: 8px;" />
+</div>
+
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashen0217&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashen0217&theme=dark&hide_border=false&layout=compact)
+  
+</div>
+
+---
 
 ---
 
