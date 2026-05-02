@@ -94,20 +94,18 @@ I am a Machine Learning Engineer exploring diverse concepts related to Artificia
 
 <img alt="Coding" width="100%" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 
-## 📊 GitHub Stats
+## 📊 GitHub Overview
 
-<div align="center">
+Visit my **[GitHub Profile](https://github.com/ashen0217)** to see:
+- 📦 **Repositories** — Full Stack, ML, and Web Development projects
+- 📈 **Contributions** — Active contributor to open source
+- 🔥 **Top Languages** — JavaScript, Python, Java, TypeScript, and more
+- 🎯 **Focus Areas** — MERN Stack, Spring Boot, Machine Learning
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashen0217&theme=dark&hide_border=true&show_icons=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashen0217&theme=dark&hide_border=true&layout=compact&langs_count=8)
-
-</div>
-
-**Profile Highlights:**
-- 💻 Full Stack Developer | Machine Learning Enthusiast
-- 🚀 Building innovative projects with modern tech stack
-- 📚 Check my [GitHub repositories](https://github.com/ashen0217?tab=repositories) for more projects
+**Quick Stats:**
+- **Specialty:** Full Stack Web Development + Machine Learning
+- **Current Learning:** Advanced AI/ML, Enterprise Java, Cloud Services
+- **Availability:** Open to collaborations & interesting projects 🚀
 
 ---
 
