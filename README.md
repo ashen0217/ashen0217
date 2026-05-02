@@ -90,6 +90,9 @@ I am a Machine Learning Engineer exploring diverse concepts related to Artificia
 - **[A/L](https://github.com/ashen0217/Resume/blob/main/Serial%20No.%20UVLC%20-%20976182.pdf)** — Advanced Level
 - **[IT Diploma](https://github.com/ashen0217/Resume/blob/main/P%20Pearson.pdf)** — Pearson IT Diploma
 
+### 📂 View All Certificates
+**[📁 View Complete Certificate Collection](https://drive.google.com/drive/folders/1HeUngEE1jVomauLvRTHI44UP7EwY8R9L?usp=sharing)** — All certifications and qualifications in one folder
+
 ---
 
 <img alt="Coding" width="100%" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
