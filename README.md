@@ -96,15 +96,18 @@ I am a Machine Learning Engineer exploring diverse concepts related to Artificia
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashen0217&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+<div align="center">
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ashen0217&theme=dark&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashen0217&theme=dark&hide_border=true&show_icons=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ashen0217&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashen0217&theme=dark&hide_border=true&layout=compact&langs_count=8)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ashen0217&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+</div>
 
-![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### Profile Overview
+- **Total Repositories:** Check my [GitHub Profile](https://github.com/ashen0217)
+- **Contributions:** Active contributor to open source projects
+- **Focus Areas:** Full Stack Development, Machine Learning, Web Technologies
 
 ---
 
