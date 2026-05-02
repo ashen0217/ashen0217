@@ -103,8 +103,13 @@ Visit my **[GitHub Profile](https://github.com/ashen0217)** to see:
 - 🎯 **Focus Areas** — MERN Stack, Spring Boot, Machine Learning
 
 **Quick Stats:**
-- **Specialty:** Full Stack Web Development + Machine Learning
-- **Current Learning:** Advanced AI/ML, Enterprise Java, Cloud Services
+- **Latest Project:** Smart Campus Operations Hub — Spring Boot + React (Facility Management System)
+- **Notable Projects:** 
+  - PlayZone Management System (MERN Stack)
+  - Singlish to Sinhala Converter (TypeScript)
+  - Unilife Smart Student Productivity Platform (JavaScript)
+  - Heart Attack Data Prediction (Machine Learning)
+- **Tech Strength:** Full Stack Web Development, Spring Boot, MERN, Machine Learning
 - **Availability:** Open to collaborations & interesting projects 🚀
 
 ---
