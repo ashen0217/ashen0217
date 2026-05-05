@@ -95,6 +95,12 @@ I am a Machine Learning Engineer exploring diverse concepts related to Artificia
 
 ---
 
+## 🏆 GitHub Achievements & Stats
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ashen0217&theme=dark&no-frame=true&no-bg=true&margin-w=4&row=1)
+
+---
+
 <img alt="Coding" width="100%" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 
 ## 📊 GitHub Overview
@@ -114,12 +120,6 @@ Visit my **[GitHub Profile](https://github.com/ashen0217)** to see:
   - Heart Attack Data Prediction (Machine Learning)
 - **Tech Strength:** Full Stack Web Development, Spring Boot, MERN, Machine Learning
 - **Availability:** Open to collaborations & interesting projects 🚀
-
----
-
-## 🏆 GitHub Achievements & Stats
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ashen0217&theme=dark&no-frame=true&no-bg=true&margin-w=4&row=1)
 
 ---
 
