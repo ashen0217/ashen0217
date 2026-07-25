@@ -150,7 +150,7 @@ Visit my **[GitHub Profile](https://github.com/ashen0217)** to see:
 
 - **📧 Email:** [ashen0217@gmail.com](mailto:ashen0217@gmail.com)
 - **💼 LinkedIn:** [Ashen Bamunusingha](https://www.linkedin.com/in/ashen-bamunusingha-39bb1a273)
-- **📸 Instagram:** [@ashen0217](https://instagram.com/ashen0217)
+- **📸 Instagram:** [@ashen0217](https://www.instagram.com/don_ashen_error404?igsh=OHo4OHQ2NDh4bGhy&utm_source=qr)
 - **📝 Blog:** [Medium](https://medium.com/@ashen0217)
 
 <br clear="all">
